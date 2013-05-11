@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasmine-async</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
     <name>Jasmine.Async</name>
     <description>WebJar for Jasmine.Async</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jasmine-async</url>
         <connection>scm:git:https://github.com/webjars/jasmine-async.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jasmine-async.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jasmine-async-0.1.0</tag>
     </scm>
     
     <dependencies>
