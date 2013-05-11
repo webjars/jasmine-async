@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for Jasmine.Async
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: https://github.com/derickbailey/jasmine.async
